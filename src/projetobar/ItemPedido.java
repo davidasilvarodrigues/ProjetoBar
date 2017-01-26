@@ -1,6 +1,8 @@
+package projetobar;
+
 public class ItemPedido {
 
-	private int idCardápio;
+	private int idCardapio;
 
 	private int qtd;
 

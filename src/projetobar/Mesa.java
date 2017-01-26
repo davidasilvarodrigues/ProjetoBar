@@ -1,3 +1,5 @@
+package projetobar;
+
 public class Mesa {
 
 	private int qtdPessoas;
